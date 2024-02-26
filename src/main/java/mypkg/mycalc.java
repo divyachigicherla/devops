@@ -36,7 +36,7 @@ public class mycalc {
 		System.out.println("Sum is :" + calc.sum(20, 10));
 		System.out.println("Diff is :" + calc.diff(20, 10));
 		System.out.println("Product is :" + calc.prod(20, 10));
-		System.out.println("Division is :" + calc.div(20, 10));
+		System.out.println("Div is :" + calc.div(20, 10));
 		calc.show();
 		calc.hello();
 		calc.test();
